@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "888307789003",
+    "firebase_url": "https://sleepyeyedrowsydriving.firebaseio.com",
+    "project_id": "sleepyeyedrowsydriving",
+    "storage_bucket": "sleepyeyedrowsydriving.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888307789003:android:4d4c8d84c5bbba9a1b7f4e",
+        "android_client_info": {
+          "package_name": "com.thomasxiao.machine_leraning_part"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888307789003-8csc5dlf26gni6v8gmef2cbfenbaeo2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf0hqxphnntHrtqOB3shYlQbO3wpmyiPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888307789003-8csc5dlf26gni6v8gmef2cbfenbaeo2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
